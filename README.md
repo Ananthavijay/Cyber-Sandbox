@@ -1,7 +1,7 @@
-# Vulnerable-Machine
+# PS-1
 A simple vulnerable machine created as a project for Ethical Hacking course
 
-We tried to create a PS-1 themed vulnerable machine, but failed..
+A PS-1 themed vulnerable machine
 
 Anyway this machine would be good for beginners to understand and perform some techniques like portforwarding, portknocking etc...
 
