@@ -1,4 +1,4 @@
-# PS-1
+# Cyber Sandbox
 
 A PS-1 themed vulnerable machine
 
